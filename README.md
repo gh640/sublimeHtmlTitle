@@ -17,7 +17,7 @@ mv sublimeHtmlTitle htmlTitle
 mv htmlTitle path/to/your/sublime/text/package/directory
 ```
 
-### Run
+### Execution of command
 
 On Sublime Text 2.
 
@@ -27,7 +27,8 @@ There are 2 ways to run the command in this package.
 2. Press ctrl+alt+t in Mac (on other environment, you need to set by yourself as following).
 
 
-    {
-        "keys": ["ctrl+alt+t"], "command": "get_html_title"
-    }
-
+```
+{
+    "keys": ["ctrl+alt+t"], "command": "get_html_title"
+}
+```

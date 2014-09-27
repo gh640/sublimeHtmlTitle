@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "HtmlTitle: Get html title for URL",
+        "command": "get_html_title"
+    }
+]

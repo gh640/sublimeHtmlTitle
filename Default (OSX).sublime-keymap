@@ -1,0 +1,5 @@
+[
+    {
+        "keys": ["ctrl+alt+t"], "command": "get_html_title"
+    }
+]
